@@ -9,7 +9,7 @@ Estou no início da minha jornada na área de tecnologia, com foco no aprendizad
 ---
 
 <p align="left">
-    <a href="linkedin.com/in/guilherme-noé-636a73336">
+    <a href="https://www.linkedin.com/in/guilherme-no%C3%A9-636a73336/">
         <img 
             alt="Meu likedin" 
             title="conecte-se comigo" 
