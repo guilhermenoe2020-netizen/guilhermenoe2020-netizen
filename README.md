@@ -11,7 +11,7 @@ Estou no início da minha jornada na área de tecnologia, com foco no aprendizad
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-no%C3%A9-636a73336/">
         <img 
-            alt="Meu likedin" 
+            alt="Meu linkedin" 
             title="conecte-se comigo" 
             src="https://custom-icon-badges.demolab.com/badge/-Likedin-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
