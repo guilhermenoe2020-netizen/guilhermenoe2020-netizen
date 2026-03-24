@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👨‍💻 Guilherme Noé
 
-<!--
-**guilhermenoe2020-netizen/guilhermenoe2020-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End em Formação`**
 
-Here are some ideas to get you started:
+Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou no início da minha jornada na área de tecnologia, com foco no aprendizado de lógica de programação e construção de uma base sólida para desenvolvimento web. Tenho interesse em seguir na área de Front-End, buscando evoluir continuamente e adquirir experiência prática através de projetos.
+
+---
+
+<p align="left">
+    <a href="linkedin.com/in/guilherme-noé-636a73336">
+        <img 
+            alt="Meu likedin" 
+            title="conecte-se comigo" 
+            src="https://custom-icon-badges.demolab.com/badge/-Likedin-blue?style=for-the-badge&logo=mention&logoColor=white"
+        />
