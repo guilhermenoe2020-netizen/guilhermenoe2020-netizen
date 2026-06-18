@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-Estou no início da minha jornada na área de tecnologia, com foco no aprendizado de lógica de programação e construção de uma base sólida para desenvolvimento web. Tenho interesse em seguir na área de Front-End, buscando evoluir continuamente e adquirir experiência prática através de projetos.
+Estou no início da minha jornada na área de tecnologia, com foco no aprendizado de lógica de programação e construção de uma base sólida para desenvolvimento web. buscando evoluir continuamente e adquirir experiência prática através de projetos.
 
 ---
 
