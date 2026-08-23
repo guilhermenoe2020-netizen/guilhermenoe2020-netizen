@@ -1,6 +1,6 @@
 ## 👨‍💻 Guilherme Noé
 
-**`Desenvolvedor Front-End em Formação`**
+**`Desenvolvedor Web em Formação`**
 
 Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
