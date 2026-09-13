@@ -19,7 +19,7 @@ Estou no início da minha jornada na área de tecnologia, buscando evoluir conti
 </p>
 
 ---
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <img 
     align="left" 
