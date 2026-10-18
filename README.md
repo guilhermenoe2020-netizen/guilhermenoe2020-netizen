@@ -59,6 +59,24 @@ Estou no início da minha jornada na área de tecnologia, buscando evoluir conti
 
 <img 
     align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascript" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git" 
     width="35px" 
