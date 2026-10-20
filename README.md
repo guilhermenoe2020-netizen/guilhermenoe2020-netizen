@@ -1,6 +1,6 @@
 ## 👨‍💻 Guilherme Noé
 
-**`Desenvolvedor Backend em Formação`**
+**`Desenvolvedor Full stack em Formação`**
 
 Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
