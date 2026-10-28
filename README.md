@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full stack em Formação`**
 
-Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Me chamo Guilherme Noé, tenho 19 anos e sou de Manaus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 Estou no início da minha jornada na área de tecnologia, buscando evoluir continuamente e adquirir experiência prática através de projetos.
 
